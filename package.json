@@ -1,0 +1,25 @@
+{
+  "name": "tron-token-airdrop",
+  "version": "1.0.0",
+  "description": "Written by colradi and adapted by gguelber \r Contact me on Telegram for scripting services [t.me/gguelber](https://t.me/gguelber)",
+  "main": "generateFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gguelber/tron-token-airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gguelber/tron-token-airdrop/issues"
+  },
+  "homepage": "https://github.com/gguelber/tron-token-airdrop#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "tronix.js": "0.0.28",
+    "tronvotes": "0.0.7"
+  }
+}
